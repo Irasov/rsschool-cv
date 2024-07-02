@@ -1,1 +1,1 @@
-# rsschool-cv
+https://irasov.github.io/rsschool-cv/
