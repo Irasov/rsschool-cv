@@ -2,7 +2,7 @@
 
 * ## Contacts:
     * __Location:__ Kazakhstan
-    * __Phone:__ +7 705 574 82 17
+    * __Discord:__ goldtipok
     * __Email:__ srnan@yandex.ru
     * __GitHub:__ https://github.com/Irasov
 
