@@ -83,15 +83,9 @@ body {
   padding: 0 15px;
 }
 
-.header {
-}
-.header__container {
-}
 .header__body {
   padding: 30px 30px;
   background-color: #42aaff;
-}
-.header__nav {
 }
 .header__items {
   display: flex;
@@ -99,8 +93,6 @@ body {
   justify-content: space-around;
   row-gap: 30px;
   column-gap: 15px;
-}
-.header__item {
 }
 .header__link {
   font-size: 18px;
@@ -115,11 +107,6 @@ body {
 }
 
 /***************************************/
-
-.about {
-}
-.about__container {
-}
 
 .about__block {
   padding: 30px 0px;
@@ -160,10 +147,6 @@ body {
 
 /***************************************/
 
-.information {
-}
-.information__container {
-}
 .information__blocks {
   padding: 30px 0;
   display: flex;
@@ -171,8 +154,6 @@ body {
   flex-wrap: wrap;
   row-gap: 20px;
   column-gap: 10px;
-}
-.information__block {
 }
 .block-information {
   min-width: 300px;
